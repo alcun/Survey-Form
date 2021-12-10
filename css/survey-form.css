@@ -1,0 +1,28 @@
+
+  body {
+background-color: green;
+font-family: Monospace;
+
+  }
+
+  h1 {
+    text-align: center;
+    underline
+  }
+
+  footer{
+    text-align: center;
+  }
+  .container {
+    background-color: blue;
+    color: white;
+    padding: 20px 20px 20px 60px;
+  }
+
+  .comments {
+    width: 95%;
+
+  }
+#submit{
+ width: 10%;
+}
